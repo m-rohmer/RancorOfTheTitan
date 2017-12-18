@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Trap
+  - LongHole
+  - EndTrap
+  - DeepHole
+  - Wall
+  - Win
+  - Lose
+  - Ground
+  - Vine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1106935841
+    locked: 0
+  - name: Player
+    uniqueID: 1459261647
+    locked: 0
+  - name: Foreground
+    uniqueID: 642068453
+    locked: 0
+  - name: Ground
+    uniqueID: 2288379911
+    locked: 0

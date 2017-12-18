@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abb1f027b57446741ab3dbbb6c299e40
+timeCreated: 1510812853
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rainTile: {fileID: 1505582648595374, guid: 5bae0b07830ca9344a0271cb0ec4bbbf, type: 2}
+  - windTile: {instanceID: 0}
+  - vineTile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

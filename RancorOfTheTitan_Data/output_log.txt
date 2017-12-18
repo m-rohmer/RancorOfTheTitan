@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1972 MB
+    Driver:   9.18.13.3270
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.190 seconds
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\martin\Desktop\conception\Rancor of the Titan (1)\RancorOfTheTitan_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 51.925041 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13b4 -> priority: 1 
+  Thread -> id: 348 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 23.686106 ms
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1217.
+Total: 2.538669 ms (FindLiveObjects: 0.119978 ms CreateObjectMapping: 0.065475 ms MarkObjects: 0.810831 ms  DeleteObjects: 1.540968 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.739695 ms
+
+Unloading 134 unused Assets to reduce memory usage. Loaded Objects now: 544.
+Total: 7.015051 ms (FindLiveObjects: 0.100867 ms CreateObjectMapping: 0.102636 ms MarkObjects: 0.786764 ms  DeleteObjects: 6.022659 ms)
+
